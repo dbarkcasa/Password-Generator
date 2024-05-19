@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator
 
 ## Description
